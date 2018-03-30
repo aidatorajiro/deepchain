@@ -1,7 +1,7 @@
 module.exports = {
   entry: './src/index.js',
   output: {
-    filename: 'bundle.js',
+    filename: 'Deepchain.js',
     library: "Deepchain",
     libraryTarget: "umd"
   },

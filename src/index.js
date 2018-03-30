@@ -1,4 +1,5 @@
-import { getVersions, loadVersion } from './browser-solc'
+import compilers from './compilers'
 
 export {
+  compilers
 }
