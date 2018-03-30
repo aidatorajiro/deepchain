@@ -7,7 +7,7 @@ This is a web application which helps you to develop neural networks in Ethereum
 ## Build
 Run `npm install`. 
 
-Install webpack, webpack-cli and webpack-dev-server.
+Install webpack, webpack-cli and webpack-dev-server, either global or local.
 
 Run `webpack-dev-server --content-base=dist`.
 
